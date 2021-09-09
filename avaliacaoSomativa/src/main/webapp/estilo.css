@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+table{
+	
+	border: 1px solid #000;
+	width: 700px;
+	margin: 100px auto;
+	table-layout: fixed;
+	font-family: helvetica;
+	
+}
+
+table tr th{
+	text-align: center;
+	height: 40px;
+	background-color: #4834d4;
+	color: #fff;
+}
+
+table tr td{
+	text-align: center;
+	height: 40px;
+}
+
+table tr:nth-child(even){
+	background-color: #7ed6df;
+}

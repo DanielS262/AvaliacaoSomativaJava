@@ -1,0 +1,8 @@
+1;Monitor;Preto;250.0;10
+2;Mouse;Branco;50.0;50
+3;Teclado;Branco;70.0;1001
+2;Mouse;Branco;50.0;50
+3;Teclado;Branco;70.0;100
+4;SSD;Sem cor;100.05;6
+4;SSD;Sem cor;100.05;6
+7;Pendrive;Azul;10.0;3
